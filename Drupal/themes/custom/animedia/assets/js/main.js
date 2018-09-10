@@ -1,0 +1,1 @@
+// alert("cargando javascript en drupal 8");

@@ -1,0 +1,9 @@
+base:
+  version: 1.x
+  css:
+    theme:
+     assets/css/main.css: { weight:-9 }
+  js:
+    assets/js/main.js: { weight:-900, minified: true }
+    dependencies:
+      - core/jquery
